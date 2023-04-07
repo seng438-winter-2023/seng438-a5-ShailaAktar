@@ -28,6 +28,6 @@ The entire team was split into two smaller groups. Each report was tested using 
 # 
 
 # Difficulties encountered, challenges overcome, and lessons learned
-
+Setting up the project and choosing the range of usable data using Laplace and other tests was the major hurdle.
 # Comments/feedback on the lab itself
 This lab was intriguing and difficult at the same time. The straightforward instructions and images made it easier to grasp. That provided us with practical reliability testing experience.
