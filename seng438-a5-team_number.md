@@ -17,7 +17,9 @@
 
 # Assessment Using Reliability Demonstration Chart 
 
-First of all to determine the MMTFmin we used the formula : MTTF = Total time(in hours)/Number of failures. Referencing failure report-3 we got the following results: total time= 903 seconds  but we chose 975 as the cumulative time bacause we are not sure if the process ended exactly at 903, os 975= 0.271 hours and 24 failures, therefore the MTTFmin is equal to 0.0113.Through the mentioned formula supported by the given data we calculated the MMTF min. Therefore MTTF min is 0.0113 hours/failure or 40.62 seconds/failure.
+First of all to determine the MMTFmin we used the formula : MTTF = Total time(in hours)/Number of failures. Referencing failure report-3 we got the following results: total time= 903 seconds  but we chose 975 as the cumulative time bacause we are not sure if the process ended exactly at 903, so 975= 0.271 hours and 24 failures, therefore the MTTFmin is equal to 0.0113.Through the mentioned formula supported by the given data we calculated the MMTF min. Therefore MTTF min is 0.0113 hours/failure or 40.62 seconds/failure.
+
+<img width="415" alt="Screen Shot 2023-04-07 at 10 47 24 PM" src="https://user-images.githubusercontent.com/104500471/230703651-b252c775-26ee-484a-aa4c-b61f0e2caf96.png">
 
 
 Advantages of Reliability Demonstration Chart: This tool has several advantages. With the help of this tool we can visualize the data which can further help in interpreting it. Moreover, this tool provide cost-efficiency by providing a strong substratum for testing product's reliability. Furthermore, this tool also helps in providing qualitative measures for the product which is further effective when comes to making decision over product design and maintainance.
