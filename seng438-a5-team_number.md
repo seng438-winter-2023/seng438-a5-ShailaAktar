@@ -17,7 +17,7 @@
 
 # Assessment Using Reliability Demonstration Chart 
 
-First of all to determine the MMTFmin we used the formula : MTTF = Total time(in hours)/Number of failures. Referencing failure report-3 we got the following results: total time= 11353 seconds = 3.1536 hours and 24 failures, therefore the MTTFmin is equal to 0.1314.Through the mentioned formula supported by the given data we calculated the MMTF min. Therefore MTTF min is 0.1314 hours/failure.
+First of all to determine the MMTFmin we used the formula : MTTF = Total time(in hours)/Number of failures. Referencing failure report-3 we got the following results: total time= 11353 seconds = 3.1536 hours and 24 failures, therefore the MTTFmin is equal to 0.1314.Through the mentioned formula supported by the given data we calculated the MMTF min. Therefore MTTF min is 0.1314 hours/failure or 473.042 seconds/failure.
 
 
 Advantages of Reliability Demonstration Chart: This tool has several advantages. With the help of this tool we can visualize the data which can further help in interpreting it. Moreover, this tool provide cost-efficiency by providing a strong substratum for testing product's reliability. Furthermore, this tool also helps in providing qualitative measures for the product which is further effective when comes to making decision over product design and maintainance.
@@ -27,6 +27,10 @@ Disadvantages of Reliability Demonstration Chart: Although this tool provides a 
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
+
+Similarities: Both the techniques are used to access the reliability of the product/application. Both the techniques uses various testing situations under predictable outcomes. Both the techniques visualize analyzes through graphical means.Both the techniques uses a pre-defined test scenario to conclude the process to success.Both techniques help the users to identify area of improvements for getting better reliability.
+
+Differences: Both the techniques has numerous differences in their objectives, approach and testing criteria. 
 
 # How the team work/effort was divided and managed
 The entire team was split into two smaller groups. Each report was tested using each of the various models by one team while the other team tested each report using the various Applicability Analysis techniques. Upon completion of both tests, each team conveyed the whole idea to the other team, and all team members then assessed one another's understanding to ensure that everyone had understood each and every concept. We spoke about how to present the time-between-failure, failure intensity, and reliability graphs, as well as which report to use for trends and what range of meaningful data to utilise. Additionally, we collaborated to talk about the acceptable range of failure rates for the test results.
