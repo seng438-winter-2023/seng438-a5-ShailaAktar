@@ -17,7 +17,7 @@
 
 # Assessment Using Reliability Demonstration Chart 
 
-# 
+First of all to determine the MMTFmin we used the formula : MTTF = Total time(in hours)/Number of failures. Referencing failure report-3 we got the following results: total time= 11353 seconds = 3.1536 hours and 24 failures, therefore the MTTFmin is equal to 0.1314.Through the mentioned formula supported by the given data we calculated the MMTF min.
 
 # Comparison of Results
 
